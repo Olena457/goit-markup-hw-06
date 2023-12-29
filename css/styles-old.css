@@ -17,9 +17,6 @@
 /* h3 style */
 
 /* section team */
-.team-section {
-  background-color: #f4f4fd;
-}
 
 /* section hero */
 
@@ -91,27 +88,7 @@
 /* section hero----------- */
 
 /* ul features2*/
-.features {
-  padding: 120px 0 120px;
-}
-.features-list {
-  display: flex;
-  gap: 24px;
-}
-.features-item {
-  background-color: #ffffff;
-  width: calc((100% - 3 * 24px) / 4);
-}
-.features-wrapper {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 112px;
-  background-color: #f4f4fd;
-  border-radius: 4px;
-  margin-bottom: 8px;
-  border: 1px solid #8e8f99;
-}
+
 /* .article-work text {
 } */
 /* page section 3 ---------------------*/
