@@ -460,7 +460,7 @@ p {
 }
 /* FEATURES section----------------- */
 .features {
-  padding: 96px 0px 92px 0px;
+  padding: 96px 16px 92px 16px;
 }
 .features-list {
   display: flex;
