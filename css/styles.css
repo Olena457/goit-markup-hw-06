@@ -459,8 +459,8 @@ p {
   fill: #f4f4fd;
 }
 /* FEATURES section----------------- */
-.features {
-  padding: 96px 16px 92px 16px;
+.features-block {
+  padding: 96px 0px 92px 0px;
 }
 .features-list {
   display: flex;
